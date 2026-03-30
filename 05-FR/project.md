@@ -157,6 +157,10 @@ The auction is a form of concluding a sale and purchase transaction in which the
 
 A physical or digital item to be auctioned.
 
+### BO3 : Bid
+
+An offer made by a [Buyer](#ac2) during an auction. It must consist of a specific monetary amount that exceeds the current highest bid by at least the minimum increment defined in the business rules.
+
 ## Business rules
 
 <a id="br1"></a>
